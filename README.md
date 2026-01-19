@@ -23,4 +23,4 @@ Welcome to my data analytics portfolio. As a former Banking Professional with 5+
 ---
 ## 📫 Contact Me
 * LinkedIn: [Link LinkedIn Kamu](www.linkedin.com/in/miona-hutauruk)
-* Email: [mionaraquel@gmail.com](mailto:mionaraquel@gmail.com)
+* 📩 Hire Me: [mionaraquel@gmail.com](mailto:mionaraquel@gmail.com)
