@@ -5,6 +5,8 @@ Welcome to my data analytics portfolio. As a former Banking Professional with 5+
 ## 🚀 Projects
 
 ### 1. Main Factors in Effective Campaigns over 2 years (Retail Customer Analysis | Dunnhumby)
+<img width="805" height="452" alt="Screenshot 2026-01-19 104458" src="https://github.com/user-attachments/assets/afbba60e-75aa-4719-be2a-6cf58c5266d1" />
+
 * **Goal:** Analyzing 2.5M+ transaction records to find purchasing patterns.
 * **Tools:** Python, Logistic Regression, Tableau, Google Sheets
 * [View Notebook](https://colab.research.google.com/drive/1NTDR4SH2MnKXJpF21tNvGmzZSDXbPbHE?usp=sharing) | [View Tableau Dashboard](https://public.tableau.com/views/DUNHUMBY/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [View Presentation](https://docs.google.com/presentation/d/1TCKHbypNxMobSRM9QVND3C5oRxSvMUIT57kWr4h8Gk8/edit?usp=sharing)
